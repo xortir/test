@@ -1,0 +1,2 @@
+# test
+print "Toz zirej"
